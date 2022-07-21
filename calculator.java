@@ -69,8 +69,6 @@ public class calculator {
 		}
 		System.out.println("power is "+result);
 		}
-
-
 public static void main(String args[])
 { int no;
 Scanner sc = new Scanner(System.in);
